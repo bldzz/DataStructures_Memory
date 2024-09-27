@@ -443,13 +443,7 @@ namespace SkalProj_Datastrukturer_Minne
             }
 
 
-
-
-
-
         }
-
-
 
         // Helper function to check if the opening and closing brackets match
         static bool IsMatchingPair(char opening, char closing)
@@ -459,14 +453,7 @@ namespace SkalProj_Datastrukturer_Minne
                    (opening == '[' && closing == ']');
         }
 
-
-
-
-
     }
-
-
-
 
 }
 
